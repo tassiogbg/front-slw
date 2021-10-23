@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+  background-color: #333f70;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; 
+}
+footer{
+    clear: both;
+    position: relative;
+    height: 82px;
+    margin-top: 120px;
+    background-color: white;
+    
+}
+h6{
+  text-align: center;
+  height: 10px;
+}
+img{
+  margin-left: 10%;
+  margin-top: 5px;
+  height: 60px;
+  width: 60px;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont,'Roboto Condensed' 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
